@@ -14,4 +14,5 @@ Budget completed
 
 
 September 18
+
 Gantt chart and Proposal completed
