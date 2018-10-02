@@ -13,4 +13,8 @@ Budget Completed
 
 September 18 -
 Gantt Schedule Chart and Proposal Completed
+
 https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/CENG317%20Schedule.pdf
+
+
+https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/CENG317%20Proposal.pdf
