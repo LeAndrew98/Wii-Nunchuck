@@ -3,9 +3,9 @@ All Completed
 
 
 **October 2 -**
-Proof of Purchase Completed
+[Proof of Purchase Completed]
 
-https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/Proof%20of%20Payment.pdf
+(https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/Proof%20of%20Payment.pdf)
 
 **September 25 -** 
 Budget Completed
