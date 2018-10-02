@@ -3,11 +3,13 @@ All Completed
 
 
 October 2
+
 Proof of Purchase completed
 
 
 September 25
-Budgetcompleted
+
+Budget completed
 
 
 September 18
