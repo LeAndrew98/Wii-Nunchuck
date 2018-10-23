@@ -1,5 +1,8 @@
 **All Completed**
 
+**October 23 -**
+Today I created the wiring for my Raspberry Pi and Wii Nunchuk connection.
+[WiringPicture](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/Wiring.jpg)
 
 
 **October 2 -**
