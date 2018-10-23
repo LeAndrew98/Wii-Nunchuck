@@ -4,6 +4,7 @@
 Today I created the wiring for my Raspberry Pi and Wii Nunchuk connection.
 ![WiringPicture](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/Wiring.jpg)
 After I finished wiring the connectiom, I went into the Pi and checked the i2c device and made sure that the number that shows up is the correct number.
+
 ![Device](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/Device.JPG)
 
 
