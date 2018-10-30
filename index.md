@@ -1,5 +1,12 @@
 **All Completed**
 
+**October 30 -**
+Today I used Fritzing to create a PCB and a breadboard diagram for my sensor.
+![Breadboard](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/WiiNunchuk_bb.jpg)
+![PCB](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/WiiNunchuk_pcb.jpg)
+
+As for the budget, I had to purchase wires that costed 11 dollars.
+
 **October 23 -**
 Today I created the wiring for my Raspberry Pi and Wii Nunchuk connection.
 ![WiringPicture](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/Wiring.jpg)
