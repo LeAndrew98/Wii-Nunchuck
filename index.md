@@ -1,5 +1,8 @@
 **All Completed**
 
+**November 6 -**
+Today was the PCB Soldered milestone. With reference to my [Project Schedule](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/CENG317%20Schedule.pdf), I am a bit behind as I have not finished soldering my PCB. In terms of my [Budget](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/CENG317%20Budget.pdf), other than the wires i mentioned last week, everything is on plan with the budget.I will complete my soldering on Wednesday or Thursday and check to see if everything is okay and I will make sure that I am ready for the hardware demonstration.
+
 **October 30 -**
 Today I used Fritzing to create a PCB and a breadboard diagram for my sensor.
 ![Breadboard](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/WiiNunchuk_bb.jpg)
