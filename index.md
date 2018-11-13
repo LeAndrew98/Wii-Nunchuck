@@ -1,4 +1,7 @@
 
+**November 13 -**
+Today is the power up milestone. I tried to create code that would allow me to read my sensor's values and display them on the screen but I could not produce this code. In terms of the [project schedule](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/CENG317%20Schedule.pdf) I am behind as I was no able to provide code that would display my readings and I will work on getting code to work throughout the week so that I could catch up and be on schedule. In terms of my [budget](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/CENG317%20Budget.pdf), there has been no changes lately.
+
 **November 6 -**
 Today was the PCB Soldered milestone. With reference to my [Project Schedule](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/CENG317%20Schedule.pdf), I am a bit behind as I have not finished soldering my PCB. In terms of my [Budget](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/CENG317%20Budget.pdf), other than the wires i mentioned last week, everything is on plan with the budget.I will complete my soldering on Wednesday or Thursday and check to see if everything is okay and I will make sure that I am ready for the hardware demonstration.
 
