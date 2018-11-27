@@ -27,3 +27,4 @@ Today I created the [wiring](https://github.com/LeAndrew98/Wii-Nunchuk/blob/mast
 
 **September 18 -**
 [Gantt Schedule Chart](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/CENG317%20Schedule.pdf) and [Proposal Completed](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/CENG317%20Proposal.pdf)
+
