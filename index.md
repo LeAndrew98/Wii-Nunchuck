@@ -1,5 +1,6 @@
 **November 27 -**
 Today is the presentation milestone. Here is a link to my [powerpoint](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/Wii%20Nunchuck.pptx).
+
 **November 20 -**
 Today is the enclosure milestone. Today I created a diagram for a [case](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/PiCaseDiagram.pdf) that I would like to be made to enclose my PCB.In terms of the [project schedule](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/CENG317%20Schedule.pdf), I am a little behind scheudle as I need my case to be created. In terms of my [budget](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/CENG317%20Budget.pdf), there has been no changes lately.
 
