@@ -17,7 +17,7 @@ Wii Nunchuck (0x52)
 11. [Testing](#testing)
 12. [Reproduction of Project](#reproduction-of-project)
 
-## Introduction
+### Introduction
 
 ### Budget for Materials Required
 
