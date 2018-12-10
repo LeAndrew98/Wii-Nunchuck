@@ -75,7 +75,7 @@ When the wiring is completed, this is what it should look like:
 ### PCB Soldering
 
 Before soldering, make sure you have safetly glasses equipped along with having proper ventilation that contains a extractor arm for the fumes. A soldering toolkit is also required which is available in most labs. If you want help soldering, this video will help you learn
-https://www.youtube.com/watch?v=3230nCz3XQA, if you are still unconfident there are people in the prototype lab will be willing to help you learn.
+https://www.youtube.com/watch?v=3230nCz3XQA, if you are still unconfident there are people in the Humber Prototype lab will be willing to help you learn.
 
 When soldering, you want to solder in the 20 pin header, making sure that it is on the bottom of the PCB as it needs to plug into the Raspberry Pi. When that is completed, you want to solder the 10 pin male header onto the other side of the PCB(top side). When this is completed, you need to put a piece of wire through each via and solder it on both the bottom and top side. This should be done for all 10 vias created.
 
@@ -106,7 +106,7 @@ If this is done correctly you should see this output screen:
 
 When designing the case, I took the original case design from the dropbox provided, and extended the width of the base by 3/8 an inch and also extended the length by 0.2 inches, all in Corel Draw. You can find my Pi case diagram [here](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/PiCaseDiagram.pdf).
 
-The case is created by cutting pieces of acrylic using a lazer cutter from the Prototype lab in Humber College. 
+Once the case design is done, you can give your file to the Humber Prototype lab and they create your case by cutting pieces of acrylic using a lazer cutter. 
 
 
 ### Assembly for Hardware
