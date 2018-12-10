@@ -74,6 +74,8 @@ When the wiring is completed, this is what it should look like:
 
 ### PCB Soldering
 
+Before soldering, make sure you have safetly glasses equipped along with having proper ventilation that contains a extractor arm for the fumes. A soldering toolkit is also required which is available in most labs. If you want help soldering, this video will help you learn
+https://www.youtube.com/watch?v=3230nCz3XQA, if you are still unconfident there are people in the prototype lab will be willing to help you learn.
 
 ### Power Up
 
