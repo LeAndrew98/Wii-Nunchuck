@@ -29,7 +29,7 @@ To complete this project you would need to purchase these materials from my budg
  
 ### Time Schedule
 
-
+This project took me about 4 months(a whole semester), but if parts are already acquired, I think that this project should only take around 4-5 days if they spend around 2-3 hours working on it. You can find my project schedule [here](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/CENG317%20Schedule.pdf). This schedule shows the timeline and milestones that I had to follow to be able to complete my project on time.
 
 ### Assembly of Pi
 If you follow these steps on how to set up the Raspberry Pi 3 B+ properly, you will have the ability to log in and make sure that your sensor is connected prperly.
