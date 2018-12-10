@@ -94,7 +94,7 @@ Once soldering is finished, you can connect your PCB to the Raspberry Pi and you
 
 1. Use sudo raspi-config to begin enabling I2C.
 
-2. Select Interface Options, go to IC2 and select "Enable". Then click Finish.
+2. Select Interface Options, go to I2C and select "Enable". Then click Finish.
 
 3. Use sudo i2cdetect -y 1 to be able to see if your Wii Nunchuk is being seen by the Pi.
 
