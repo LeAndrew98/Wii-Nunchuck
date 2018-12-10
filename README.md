@@ -63,7 +63,7 @@ If you follow these steps on how to set up the Raspberry Pi 3 B+ properly, you w
 
 ### Wiring
 
-Before you begin to wiring, you should check the UEXT manual provided [here](https://www.olimex.com/Products/Modules/UEXT/resources/UEXT_rev_B.pdf) and you should also have the Raspberry Pi pins layout which you can find in your raspberry pi kit. These manuals will provide you information on the 10 pins you would need to connect in order to make your Wii Nunchuk work with your Raspberry Pi.
+Before you begin to wiring, you should check the UEXT manual provided [here](https://www.olimex.com/Products/Modules/UEXT/resources/UEXT_rev_B.pdf)(on page 3) and you should also have the Raspberry Pi pins layout which you can find in your raspberry pi kit. These manuals will provide you information on the 10 pins you would need to connect in order to make your Wii Nunchuk work with your Raspberry Pi.
 
 When the wiring is completed, this is what it should look like:
 
@@ -76,6 +76,17 @@ When the wiring is completed, this is what it should look like:
 
 Before soldering, make sure you have safetly glasses equipped along with having proper ventilation that contains a extractor arm for the fumes. A soldering toolkit is also required which is available in most labs. If you want help soldering, this video will help you learn
 https://www.youtube.com/watch?v=3230nCz3XQA, if you are still unconfident there are people in the prototype lab will be willing to help you learn.
+
+When soldering, you want to solder in the 20 pin header, making sure that it is on the bottom of the PCB as it needs to plug into the Raspberry Pi. When that is completed, you want to solder the 10 pin male header onto the other side of the PCB(top side). When this is completed, you need to put a piece of wire through each via and solder it on both the bottom and top side. This should be done for all 10 vias created.
+
+When completed the top view should look like this:
+
+![topview](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/PCBTop.jpg)
+
+And the bottom view should look like this:
+
+![bottomview](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/PCBBottom.jpg)
+
 
 ### Power Up
 
