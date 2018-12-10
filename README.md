@@ -71,6 +71,11 @@ When the wiring is completed, this is what it should look like:
 
 ### PCB Design Files
 
+When trying to create your PCB, using the Fritzing program, you can recreate the wiring(shown [here](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/WiiNunchuk_bb.jpg)). This will allow you to create your PCB easier as it provides hints and will show you what you need to connect when wiring your PCB. You can find my PCB design [here](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/WiiNunchuk_pcb.jpg).
+
+![PCB](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/PCB.PNG)
+
+Once completed you can send your Gerber file to the Humber Prototype lab and they will create your PCB for you.
 
 ### PCB Soldering
 
