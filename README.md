@@ -82,3 +82,4 @@ The case is created by cutting pieces of acrylic using a lazer cutter from the P
 
 ### Reproduction of Project
 
+If you follow all of these steps correctly, you should be able to recreate my project.
