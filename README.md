@@ -24,6 +24,7 @@ The Wii nunchuk is a device used to play Wii games. It consists of a joystick an
 
 ### Budget for Materials Required
 
+To complete this project you would need to purchase these materials from my budget. One change that needs to be made to this budget, the IDC cables do not need to be purchased, and instead the purchase of the Akuru 3-in-1 kit Jumper Wires from amazon. You can find my budget [here](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/CENG317%20Budget.pdf).
  
 ### Time Schedule
 
