@@ -90,10 +90,19 @@ And the bottom view should look like this:
 
 ### Power Up
 
+Once soldering is finished, you can connect your PCB to the Raspberry Pi and you can connect the Wii Nunchuk to the male header. Once connected boot up the Raspberry Pi and follow these steps:
 
+1. Use sudo raspi-config to begin enabling I2C.
+
+2. Select Interface Options, go to IC2 and select "Enable". Then click Finish.
+
+3. Use sudo i2cdetect -y 1 to be able to see if your Wii Nunchuk is being seen by the Pi.
+
+If this is done correctly you should see this output screen:
+
+![deviceoutput](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/Device.JPG)
 
 ### Case Design 
-
 
 When designing the case, I took the original case design from the dropbox provided, and extended the width of the base by 3/8 an inch and also extended the length by 0.2 inches, all in Corel Draw. You can find my Pi case diagram [here](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/PiCaseDiagram.pdf).
 
