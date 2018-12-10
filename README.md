@@ -63,6 +63,11 @@ If you follow these steps on how to set up the Raspberry Pi 3 B+ properly, you w
 
 ### Wiring
 
+Before you begin to wiring, you should check the UEXT manual provided [here](https://www.olimex.com/Products/Modules/UEXT/resources/UEXT_rev_B.pdf) and you should also have the Raspberry Pi pins layout which you can find in your raspberry pi kit. These manuals will provide you information on the 10 pins you would need to connect in order to make your Wii Nunchuk work with your Raspberry Pi.
+
+When the wiring is completed, this is what it should look like:
+
+![wiring](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/Wiring.jpg)
 
 ### PCB Design Files
 
