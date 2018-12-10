@@ -51,7 +51,7 @@ If you follow these steps on how to set up the Raspberry Pi 3 B+ properly, you w
 
 8. Once the software is installed, connect the ethernet cable from the Pi to the monitor that you want to use so you have a direct connection. Now you can simply input the same address you found in the Pi in the VNC software and it should connect.
 
-9. To turn off the Pi, type sudo powerdown in the terminal. 
+9. To turn off the Pi, type sudo powerdown in the terminal or go to the menu and press shutdown. 
 
 
 
