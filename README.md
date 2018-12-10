@@ -89,6 +89,11 @@ The case is created by cutting pieces of acrylic using a lazer cutter from the P
 
 ### Assembly for Hardware
 
+Once the case is created, you can begin to assemble your hardware. When assembling the case it is best to put the Raspberry Pi onto the base with the PCB on, making sure that the holes of the Raspberry Pi line up with the holes made in the base of the case, you can put the 4 screws through and this would secure the Pi down onto the base. Once that is complete, you can snap on the other sides of the case and the top of the case.
+
+When everything is put together it should look like this:
+
+![case](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/case.png)
 
 ### Testing
 
