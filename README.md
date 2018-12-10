@@ -82,6 +82,8 @@ When the wiring is completed, this is what it should look like:
 ### Case Design 
 
 
+When designing the case, I took the original case design from the dropbox provided, and extended the width of the base by 3/8 an inch and also extended the length by 0.2 inches, all in Corel Draw. You can find my Pi case diagram [here](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/PiCaseDiagram.pdf).
+
 The case is created by cutting pieces of acrylic using a lazer cutter from the Prototype lab in Humber College. 
 
 
