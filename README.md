@@ -16,3 +16,69 @@ Wii Nunchuck (0x52)
 10. [Assembly for Hardware](#assembly-for-hardware)
 11. [Testing](#testing)
 12. [Reproduction of Project](#reproduction-of-project)
+
+## Introduction
+
+### Budget for Materials Required
+
+ 
+### Time Schedule
+
+
+### Assembly of Pi
+If you follow these steps on how to set up the Raspberry Pi 3 B+ properly, you will have the ability to log in and make sure that your sensor is connected prperly.
+
+1. Format an SD card with a minimum of 8GB to be used for the OS of the Pi. To download a SD card formatting software usw this link: https://www.sdcard.org/downloads/formatter_4/index.html
+
+2. Download and unzip the latest version of the OS for the Raspberry Pi to your SD card. Download NOOBS in the link as that will ensure that you will have almost everything required when starting: https://www.raspberrypi.org/downloads/noobs/   
+
+3. When NOOBS is on the SD card, remove it from the pc and insert it in the Pi. Before powering on your Raspberry Pi, make sure that your monitor, keyboard, mouse, HDMI, and any other device you want to connect is connected. Once everything is connected, you can plug in the power and the Raspberry Pi will automatucally turn on.
+
+4. Upon the boot up session, select Raspbian as the operating system for the Pi and follow the instructions as they appear. You may also change the keyboard layout on the bottom during intial boot.
+
+5. Once installation is completed, you should be brought to the desktop. Connect yourself to either Wifi or wired connection in order to perform the next few steps.
+
+6. Open the terminal in the top left corner of the screen and input the following lines (this takes quite a long time):
+	
+  
+	wget https://raw.githubusercontent.com/six0four/StudentSenseHat/master/firmware/hshcribv01.sh \  
+	-O /home/pi/hshcribv01.sh  
+	chmod u+x /home/pi/hshcribv01.sh  
+	/home/pi/hshcribv01.sh  
+
+
+7. Now it is time to set up a VNC connection so that you can access your Pi on any computer screen. From the Start Menu, go -> Preferences->Raspberry Pi Configuration->Interfaces, then set VNC to Enabled. Now on the destop in the top right corner, you should see a VNC logo. When you click it you should see an IP address for your Pi which will be used to connect it via the VNC software. On the computer you would like to use, download VNC viewer here: https://www.realvnc.com/en/connect/download/vnc/
+
+8. Once the software is installed, connect the ethernet cable from the Pi to the monitor that you want to use so you have a direct connection. Now you can simply input the same address you found in the Pi in the VNC software and it should connect.
+
+9. To turn off the Pi, type sudo powerdown in the terminal. 
+
+
+
+### Wiring
+
+
+### PCB Design Files
+
+
+### PCB Soldering
+
+
+### Power Up
+
+
+
+### Case Design 
+
+
+The case is created by cutting pieces of acrylic using a lazer cutter from the Prototype lab in Humber College. 
+
+
+### Assembly for Hardware
+
+
+### Testing
+
+
+### Reproduction of Project
+
