@@ -154,6 +154,7 @@ To test the sensor I used code provided from Olimex's github that provides me wi
     main()
 
 The output screen should look like this:
+
 ![output](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/Output.png)
 
 
