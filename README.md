@@ -20,7 +20,7 @@ Wii Nunchuck (0x52)
 ### Introduction
 
 The Wii nunchuk is a device used to play Wii games. It consists of a joystick and 2 buttons, the z button and the c button. When attached to a Raspberry Pi, and I2C is enabled, you should be able to read the X and Y axis direction of the joystick, the X, Y and Z axis of the actual controller, and if either of the buttons are being pressed. With my project I want to take those values and store them into a database. You can find the system diagram that I created [here](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/UML%20Diagram.pdf).
-![UML](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/UML%20Diagram.pdf)
+
 
 ### Budget for Materials Required
 
