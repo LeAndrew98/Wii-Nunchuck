@@ -32,7 +32,7 @@ To complete this project you would need to purchase these materials from my budg
 This project took me about 4 months(a whole semester), but if parts are already acquired, I think that this project should only take around 4-5 days if they spend around 2-3 hours working on it. You can find my project schedule [here](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/CENG317%20Schedule.pdf). This schedule shows the timeline and milestones that I had to follow to be able to complete my project on time.
 
 ### Assembly of Pi
-If you follow these steps on how to set up the Raspberry Pi 3 B+ properly, you will have the ability to log in and make sure that your sensor is connected prperly.
+If you follow these steps on how to set up the Raspberry Pi 3 B+ properly, you will have the ability to log in and make sure that your sensor is connected properly.
 
 1. Format an SD card with a minimum of 8GB to be used for the OS of the Pi. To download a SD card formatting software usw this link: https://www.sdcard.org/downloads/formatter_4/index.html
 
@@ -44,7 +44,7 @@ If you follow these steps on how to set up the Raspberry Pi 3 B+ properly, you w
 
 5. Once installation is completed, you should be brought to the desktop. Connect yourself to either Wifi or wired connection in order to perform the next few steps.
 
-6. Open the terminal in the top left corner of the screen and input the following lines:
+6. Open the terminal and input the following lines:
 	
   
 		wget https://raw.githubusercontent.com/six0four/StudentSenseHat/master/firmware/hshcribv01.sh \  
@@ -53,11 +53,7 @@ If you follow these steps on how to set up the Raspberry Pi 3 B+ properly, you w
 		/home/pi/hshcribv01.sh  
 
 
-7. Now it is time to set up a VNC connection so that you can access your Pi on any computer screen. From the Start Menu, go -> Preferences->Raspberry Pi Configuration->Interfaces, then set VNC to Enabled. Now on the destop in the top right corner, you should see a VNC logo. When you click it you should see an IP address for your Pi which will be used to connect it via the VNC software. On the computer you would like to use, download VNC viewer here: https://www.realvnc.com/en/connect/download/vnc/
-
-8. Once the software is installed, connect the ethernet cable from the Pi to the monitor that you want to use so you have a direct connection. Now you can simply input the same address you found in the Pi in the VNC software and it should connect.
-
-9. To turn off the Pi, type sudo powerdown in the terminal or go to the menu and press shutdown. 
+7. To turn off the Pi, type sudo powerdown in the terminal or go to the menu and press shutdown. 
 
 
 
