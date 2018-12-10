@@ -1,6 +1,8 @@
 # Wii-Nunchuck
 Wii Nunchuck (0x52)
 
+![nunchuk](https://github.com/LeAndrew98/Wii-Nunchuk/blob/master/Documentation/nunchuk.jpg)
+
 # Table of Contents
 1. [Introduction](#introduction)
 2. [Budget for Materials Required](#budget-for-materials-required)
